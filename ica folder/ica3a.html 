@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Dr. Eleanor Gaye">
+    <title>Letter</title>
+    <link rel="stylesheet" href="css/ica3a.css">
+</head>
+<body>
+    <address class="sender-column">
+        Dr. Eleanor Gaye<br>
+        Awesome University<br>
+        School of Information Technology<br>
+        Boulder, CO 80309<br>
+        Tel: (123) 456-7890<br>
+        Email: no_reply@example.com<br>
+        <time datetime="2016-01-20">20 January 2016</time>
+    </address>
+
+    <address>
+        Miss Eileen Dover<br>
+        4321 Cliff Top Edge<br>
+        Dover, UK<br>
+        <time datetime="2016-01-20">20 January 2016</time>
+    </address>
+
+    <h1>Re: Eileen Dover university application</h1>
+
+    <p>Dear Eileen,</p>
+
+    <p>Thank you for your recent application to join us at the University of Awesome’s research faculty in the field of <strong>Information Technology</strong>. I will be your main point of contact for queries relating to your application, and I am happy to help with any questions you may have.</p>
+
+    <h2>Starting dates</h2>
+    <p>We are able to offer you a place to start immediately or at the beginning of the next semester. The dates available are as follows:</p>
+    <ul>
+        <li>Immediate start: <time datetime="2016-02-01">1 February 2016</time></li>
+        <li>Next semester: <time datetime="2016-09-01">1 September 2016</time></li>
+        <li>Next year: <time datetime="2017-01-01">1 January 2017</time></li>
+    </ul>
+    <p>Please let us know your preferred start date at your earliest convenience.</p>
+
+    <h2>Subjects of study</h2>
+    <p>As part of the PhD program, you will be required to take the following subjects:</p>
+    <ul>
+        <li>Research Methods</li>
+        <li>Data Analysis</li>
+        <li>Information Systems</li>
+        <li>Web Technologies</li>
+    </ul>
+
+    <h2>Exotic dances</h2>
+    <p>To make your time at our university more enjoyable, we offer a variety of extracurricular activities. Our <strong>exotic dances</strong> program includes:</p>
+    <ul>
+        <li>Salsa</li>
+        <li>Tango</li>
+        <li>Ballet</li>
+    </ul>
+
+    <p>We believe that engaging in these activities will not only enhance your academic experience but also provide a well-rounded university life.</p>
+
+    <p>For more information about our programs, please visit our <a href="http://example.com" title="University of Awesome website">website</a>.</p>
+
+    <p>Yours sincerely,</p>
+
+    <p><strong>Dr. Eleanor Gaye</strong><br>
+    Tel: <strong>(123) 456-7890</strong><br>
+    Email: <strong>no_reply@example.com</strong></p>
+
+    <p><q cite="http://example.com">"The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance."</q> — Confucius</p>
+</body>
+</html>
